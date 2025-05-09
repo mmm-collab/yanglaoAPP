@@ -1,0 +1,22 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/nursing/Nursing",
+    "pages/rehabilitation/Rehabilitation",
+    "pages/examination/Examination",
+    "pages/dong/Dong",
+    "pages/activity/Activity",
+    "pages/health/Health",
+    "pages/device/Device",
+    "pages/medicine/Medicine",
+    "pages/diet/Diet",
+    "pages/archive/Archive",
+    "pages/news/News",
+    "pages/elderly/Elderly",
+    "pages/lecture/Lecture",
+    "pages/disease/Disease",
+    "pages/nursing/NursingDetail",
+    "pages/nursing/CommentList",
+    "pages/region/Region"
+  ]
+}
