@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "color": [
     {
@@ -5,4 +6,13 @@
       "value": "#FFFFFF"
     }
   ]
+=======
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    }
+  ]
+>>>>>>> 78d4053a4b4de55729e6dc489f25006b715845d4
 }

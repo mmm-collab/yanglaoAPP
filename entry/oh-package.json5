@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "entry",
   "version": "1.0.0",
@@ -8,3 +9,15 @@
   "dependencies": {}
 }
 
+=======
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}
+
+>>>>>>> 78d4053a4b4de55729e6dc489f25006b715845d4

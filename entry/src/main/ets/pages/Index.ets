@@ -60,7 +60,11 @@ struct Index {
       .backgroundColor('#7B48F8')
       .borderRadius(24)
       .onClick(() => {
+<<<<<<< HEAD
         router.pushUrl({url:'pages/dong/Dong'})
+=======
+        // 处理加号按钮点击事件
+>>>>>>> 78d4053a4b4de55729e6dc489f25006b715845d4
       })
     }
   }

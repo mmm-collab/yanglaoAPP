@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "module": {
     "name": "entry_test",
@@ -11,3 +12,18 @@
     "installationFree": false
   }
 }
+=======
+{
+  "module": {
+    "name": "entry_test",
+    "type": "feature",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false
+  }
+}
+>>>>>>> 78d4053a4b4de55729e6dc489f25006b715845d4

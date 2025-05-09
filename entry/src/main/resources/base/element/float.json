@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "float": [
     {
@@ -6,3 +7,13 @@
     }
   ]
 }
+=======
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    }
+  ]
+}
+>>>>>>> 78d4053a4b4de55729e6dc489f25006b715845d4

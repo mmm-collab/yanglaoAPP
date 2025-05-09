@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "apiType": "stageMode",
   "buildOption": {
@@ -25,4 +26,33 @@
       "name": "ohosTest",
     }
   ]
+=======
+{
+  "apiType": "stageMode",
+  "buildOption": {
+  },
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          }
+        }
+      }
+    },
+  ],
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest",
+    }
+  ]
+>>>>>>> 78d4053a4b4de55729e6dc489f25006b715845d4
 }

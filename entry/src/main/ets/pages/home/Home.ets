@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import http from '@ohos.net.http';
 import router from '@ohos.router'
 import preferences from '@ohos.data.preferences';
@@ -520,4 +521,17 @@ export default struct Home {
       })
     }
   }
+=======
+
+
+@Component
+export default struct Home {
+
+
+  build() {
+    Column(){
+      Text('首页')
+    }
+  }
+>>>>>>> 78d4053a4b4de55729e6dc489f25006b715845d4
 }

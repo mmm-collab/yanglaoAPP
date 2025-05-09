@@ -11,6 +11,7 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+<<<<<<< HEAD
     },
     {
       "name": "permission_internet_reason",
@@ -28,6 +29,8 @@
     {
       "name": "permission_tts_reason",
       "value": ""
+=======
+>>>>>>> 78d4053a4b4de55729e6dc489f25006b715845d4
     }
   ]
 }
